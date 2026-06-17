@@ -1,1 +1,8 @@
-
+{
+  "name": "proyecto-web-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Ejecutando pruebas automatizadas""
+  },
+  "dependencies": {}
+}
